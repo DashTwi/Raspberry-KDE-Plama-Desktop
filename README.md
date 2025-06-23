@@ -1,6 +1,6 @@
 # 📦 Raspberry Pi KDE Backup Script
 
-Dieses Skript erstellt ein vollständiges und komprimiertes Backup deines Raspberry Pi Systems inklusive grafischer KDE-Benutzeroberfläche und Touchscreen-Konfiguration. Die Sicherung wird auf einen USB-Stick geschrieben und kann zur Wiederherstellung oder Replikation verwendet werden.
+Dieses Skript erstellt ein vollständiges und komprimiertes Backup des Raspberry Pi Systems inklusive grafischer KDE-Benutzeroberfläche und Touchscreen-Konfiguration. Die Sicherung wird auf einen USB-Stick geschrieben und kann zur Wiederherstellung oder Replikation verwendet werden.
 
 ## ⚙️ Funktionen
 
@@ -14,7 +14,7 @@ Dieses Skript erstellt ein vollständiges und komprimiertes Backup deines Raspbe
 
 ## 📝 Voraussetzungen
 
-- Raspberry Pi mit Debian-basiertem OS
+- Raspberry Pi OS Lite (64-bit) vorinstalliert
 - Internetverbindung für Paketinstallationen
 - USB-Stick (⚠️ wird komplett überschrieben!)
 - Root-Rechte (via `sudo`)
