@@ -40,4 +40,4 @@ Nicht benötigte Pakete werden automatisch entfernt (`apt autoremove`), um die S
 ## 📋 Autor & Lizenz
 
 Autor: *Rukia*  
-Lizenz: MIT (oder nach Wunsch ergänzen)
+Lizenz: MIT
