@@ -24,8 +24,8 @@ Dieses Skript erstellt ein vollständiges und komprimiertes Backup deines Raspbe
 1. Stelle sicher, dass `/dev/sda` der USB-Stick ist (wird vollständig formatiert!)
 2. Starte das Skript mit:
    ```bash
-   chmod +x dein_skript.sh
-   ./dein_skript.sh
+   chmod +x kded.sh
+   ./kded.sh
    ```
 3. Folge den Anweisungen – das Image wird unter `/mnt/usb/raspi_kde_<DATUM>.img.xz` gespeichert.
 
